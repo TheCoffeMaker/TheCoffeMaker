@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheCoffeMaker
-- 👀 I’m interested in FLOSS, software development, systems engineering and lots of other nerdy things
+- 👀 I’m interested in FLOSS, software development, systems engineering, self-hosting and lots of other nerdy things
 - 🌱 Everyday is a new day to learn something new.
 - 💞️ I’m looking to collaborate on FLOSS projects
 - 📫 I can be reached once you join the [Lost in Cyberspace](xmpp:lostincyberspace@conference.cyberdelia.com.ar?join)
